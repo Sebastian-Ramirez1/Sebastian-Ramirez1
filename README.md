@@ -1,5 +1,5 @@
 ### Hello There.
-## Name's Sebastian A. Ramirez Renta, and I'm just working on school stuff.
+## Name's Sebastian A. Ramirez Renta, and I'm on the hunt for a job.
 
 <!--
 **Sebastian-Ramirez1/Sebastian-Ramirez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
